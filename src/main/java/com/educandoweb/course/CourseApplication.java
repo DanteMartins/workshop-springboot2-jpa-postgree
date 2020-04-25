@@ -1,5 +1,5 @@
 package com.educandoweb.course;
-//Teste 1234
+//Teste 12345
 import org.springframework.boot.SpringApplication;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
